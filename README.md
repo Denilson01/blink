@@ -11,5 +11,6 @@
 *Simulide*
 
 *Proteus*
+
+*Microcontrolador PIC16F887*
  
-Projeto pisca-led
