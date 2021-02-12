@@ -1,6 +1,11 @@
- Aula sobre github
+**Aula sobre github
+  
+*Aula sobre programação abordando o github.
+
+**Ferramentas ultilizadas:
  
- 
- Aula sobre programação abordando o github
- 
+*Ambiente de trablaho MPLAB-X
+*Compilador XC8 
+*Simulide
+*Proteus
  
