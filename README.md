@@ -1,12 +1,12 @@
 **Aula sobre github**
   
-*Aula sobre programação abordando o github.
+*Aula sobre programação abordando o github*
 
-**Ferramentas ultilizadas:
+**Ferramentas ultilizadas:**
  
-Ambiente de trablaho MPLAB-X
-Compilador XC8 
-Simulide
-Proteus
+*Ambiente de trablaho MPLAB-X*
+*Compilador XC8* 
+*Simulide*
+*Proteus*
  
 Projeto pisca-led
